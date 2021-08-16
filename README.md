@@ -1,2 +1,2 @@
 # LDW
-Log Deleter Windows
+Windows Log Deleter
