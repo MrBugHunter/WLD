@@ -6,9 +6,13 @@ This Program Is For Deleting Log In Windows
 For More Information : https://recoverit.wondershare.com/erase-data/how-to-completely-clear-windows-event-log.html
 
 Step 1: Gather information
+
 Step 2: Scan the target
+
 Step 3: Penetrate and gain access
+
 Step 4: Increase the access level
+
 Step 5: Clear the logs
 
 # How To Run
