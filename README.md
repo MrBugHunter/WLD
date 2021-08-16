@@ -12,6 +12,7 @@ Step 4: Increase the access level
 Step 5: Clear the logs
 
 # How To Run
+# Tip : Run This Tool With Administrator Privilege
 ## In Windows You Can Download .EXE File In Release
 ## Or You Can Run .PY File But Before That, You Have To Do A Few Things
    Download Python3 --> https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe
