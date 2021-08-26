@@ -1,4 +1,4 @@
-# LDW
+# WLD
 Windows Log Deleter
 
 # what does it mean?
